@@ -2,6 +2,7 @@ Config = {}
 --------------------------repair----stations---
 Config.RepairTime = 4000
 Config.EnableSoundEffect = true
+Config.Money = 20
 
 Config.VehicleRepairLocation = {
     [1] = {
